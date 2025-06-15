@@ -1,0 +1,18 @@
+{
+  "name": "chartcomponents-example",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "@mui/material": "^6.4.0",
+    "@mui/x-charts": "^7.23.2",
+    "typescript": "^5.7.2",
+    "vite": "^4.0.0"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  }
+}
