@@ -1,4 +1,4 @@
-// import React from 'react';
+import React from 'react';
 import { BarChart as MuiBarChart } from '@mui/x-charts/BarChart';
 import type { ChartData } from './types';
 

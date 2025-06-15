@@ -1,5 +1,5 @@
 // App.tsx
-// import React from 'react';
+import React from 'react';
 // import './App.css';
 
 // 匯入你剛剛做好的圖表元件

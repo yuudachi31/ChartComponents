@@ -1,6 +1,4 @@
-# ChartComponents
 
-一個基於 MUI X-Charts 封裝的可重用圖表組件庫。
 
 ## 安裝流程
 

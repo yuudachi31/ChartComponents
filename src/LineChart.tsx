@@ -1,4 +1,4 @@
-// import React from 'react';
+import React from 'react';
 import { LineChart as MuiLineChart } from '@mui/x-charts/LineChart';
 import type { ChartData } from './types';
 

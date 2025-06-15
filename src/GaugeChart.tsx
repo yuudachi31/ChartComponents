@@ -1,4 +1,4 @@
-// import React from 'react';
+import React from 'react';
 import { Gauge, gaugeClasses } from '@mui/x-charts/Gauge';
 
 interface Props {
